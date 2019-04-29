@@ -1,3 +1,4 @@
+// I just want to try somethings
 // //////////////////////////////////////////////////////////
 // crc32.cpp
 // Copyright (c) 2014,2015 Stephan Brumme. All rights reserved.
